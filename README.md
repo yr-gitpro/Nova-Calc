@@ -5,7 +5,8 @@ It has some good animations and icons also, so check it out!!
 🛠 Development Process
 
 This project was developed using Gemini Pro to explore the capabilities of AI-assisted coding. It demonstrates how rapid
-prototyping can be achieved by leveraging LLMs to streamline the initial development phase.
+prototyping can be achieved by leveraging LLMs to streamline the initial development phase. 
+Also, I would appreciate any feedback, suggestions, or ideas you might have to improve this project.
 
 🚀 Future Roadmap
 
